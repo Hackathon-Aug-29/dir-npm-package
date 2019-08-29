@@ -1,0 +1,42 @@
+{
+  "name": "dir-npm-package",
+  "version": "1.0.0",
+  "description": "\"Hackathon project to create and share components\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hackathon-Aug-29/dir-npm-package.git"
+  },
+  "keywords": [
+    "hackathon"
+  ],
+  "author": "PedroMoyano, Emanuel Pereyra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hackathon-Aug-29/dir-npm-package/issues"
+  },
+  "homepage": "https://github.com/Hackathon-Aug-29/dir-npm-package#readme",
+  "peerDependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.6",
+    "path": "^0.12.7",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.4.4"
+  }
+}
