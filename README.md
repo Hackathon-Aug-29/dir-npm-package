@@ -1,2 +1,2 @@
 # dir-npm-package
-Hackathon project to publish and share to NPM
+Hackathon project to publish to NPM and share components between web applications.
